@@ -22,7 +22,7 @@ Estufa automatizada, com conexão Bluetooth, podendo ser controlada através do 
 
 **LINK :** 
 
-https://www.youtube.com/watch?v=aaEZbQ6I5iI 
+https://www.youtube.com/watch?v=aaEZbQ6I5iI&t=2s
 ## 
 ****MONTAGEM****
 
